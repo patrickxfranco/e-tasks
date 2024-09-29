@@ -13,7 +13,7 @@ Conteúdo complementar do Explorer para trabalhar com responsividade.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="100%">
+  <img alt="Preview do projeto desenvolvido." src="https://raw.githubusercontent.com/rocketseat-education/explorer-e-tasks/61a4713c4e4e77c48e640de2b04e6ea86e18a7f5/.github/preview.png" width="100%">
 </p>
 
 
